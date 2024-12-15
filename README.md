@@ -17,7 +17,7 @@ I-dentify pollution trends and high-risk areas.
 
 -Data Exploration: Used SELECT queries to familiarize myself with the dataset.
 
--nvestigated relationships between tables using joins and keys.
+-Investigated relationships between tables using joins and keys.
 
 #Data Cleaning: Fixed inconsistencies in employee and location data.
 
